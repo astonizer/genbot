@@ -4,7 +4,7 @@ using namespace std;
 #define s second
 #define pb push_back
 #define mp make_pair
-#define for(i, a, b) for(int i=a; i<=b; i++)
+#define rep(i, a, b) for(int i=a; i<=b; i++)
 
 typedef long long ll;
 typedef vector<int> vi;
