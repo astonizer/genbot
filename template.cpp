@@ -5,6 +5,7 @@ using namespace std;
 #define pb push_back
 #define mp make_pair
 #define rep(i, a, b) for(int i=a; i<=b; i++)
+#define nl '\n'
 
 typedef long long ll;
 typedef vector<int> vi;
@@ -17,9 +18,8 @@ void solve() {
 
 int main() {
     ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    freopen("in.txt", "r", stdin);
-    freopen("out.txt", "w", stdout);
+    cin.tie(0);
+    cout.tie(0);
     int testCases;
     cin >> testCases;
     while(testCases--)

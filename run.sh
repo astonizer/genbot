@@ -22,4 +22,4 @@ done
 echo "All ouputs were generated"
 
 # Finally check differences between both outputs
-./check.sh
+../check.sh $problem
