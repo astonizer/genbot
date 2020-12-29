@@ -17,9 +17,10 @@ for (( i=0; i<len; i++ ))
 do
     # Usage of xarg command
     ./solution < in$i.txt > res$i.txt
-    echo "res$itr.txt was generated"
+    echo "res$i.txt was generated"
 done
 echo "All ouputs were generated"
 
 # Finally check differences between both outputs
-../check.sh $problem
+cd ..
+./check.sh $problem

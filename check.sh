@@ -1,8 +1,8 @@
 #!/bin/bash
 
+cd $1
 echo
 echo "Comparing results"
-cd $1
 echo $(pwd)
 out_files=(`ls out*.txt`)
 res_files=(`ls res*.txt`)
