@@ -1,6 +1,7 @@
 ## genbot
-
-Genreate c++ templates and test case files for competitive programming contests using genbot.
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/astonizer/genbot/graphs/commit-activity)
+<br>
+Generate c++ templates and test case files for competitive programming contests using genbot.
 
 # Usage
 1. Clone this repo and `cd` into it.
