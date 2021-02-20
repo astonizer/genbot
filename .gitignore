@@ -1,3 +1,7 @@
 /node_modules
 /practice
 /lib
+
+# Under development
+/platforms/atcoder.js
+/platforms/codechef.js
