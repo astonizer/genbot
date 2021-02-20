@@ -16,15 +16,15 @@ Generate c++ templates and test case files for competitive programming contests 
     Parsing problems<br>
     <img src="https://github.com/astonizer/genbot/blob/master/assets/parse-problems.gif" width="700" height="350" />
 
-        <br>
-        Testing incorrect solution<br>
-        <img src="https://github.com/astonizer/genbot/blob/master/assets/sol-fail.gif" width="700" height="350" />
+    <br>
+    Testing incorrect solution<br>
+    <img src="https://github.com/astonizer/genbot/blob/master/assets/sol-fail.gif" width="700" height="350" />
 
     <br><br>
     Testing correct solution<br>
     <img src="https://github.com/astonizer/genbot/blob/master/assets/sol-pass.gif" width="700" height="350" />
 
-        <br>
+    <br>
 
 #### Tip : Edit `template.cpp` as per your convenience
 
